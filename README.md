@@ -1,3 +1,8 @@
+## Overview
+
+This is the code for Decentralized Ride Sharing by Siraj Raval as part of the Dapp course. 
+
+
 # Stride-Tokens
 What if ride sharing was done via Smart Contracts?
 
@@ -14,3 +19,7 @@ Tokens can be used to pay for rides or they can be bought and sold to others for
 1. Embed Google Maps to show the routes and to generate the distance data.
 
 One of the biggest challenges: designing and writing the token smart contract, is basically done. The contract will be adapted to do a bit less as the node.js server is built up. In its current state, the 'gas' cost of some of the functionality could be reduced. 
+
+## Credits 
+
+Credits for this code go to [oponn-1](https://github.com/Oponn-1/Stride-Tokens). I've merely created a wrapper to get people started. 
